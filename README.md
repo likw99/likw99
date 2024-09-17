@@ -8,6 +8,11 @@ Here is a list of my weekend projects:
 - Apple Podcast: [HiTech Everyday](https://itunes.apple.com/cn/podcast/每天懂点黑科技/id1445430696)
 - Ximalaya FM: [Introduction to Machine Learning](https://www.ximalaya.com/album/21244930)
 - OpenSea Collections: [Dancing Avatar 3D](https://opensea.io/SuperMirror/collected)
+- GPTs:
+    - [GPTs Master](https://chatgpt.com/g/g-NIPV7ziKW-gpts-master)
+    - [Algorithm Explorer](https://chatgpt.com/g/g-LuAkPlfef-algorithm-explorer)
+    - [Slides Copilot](https://chatgpt.com/g/g-pbZKhfonw-slides-copilot)
+    - ......
 
 <!--
 **likw99/likw99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
