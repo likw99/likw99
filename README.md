@@ -5,7 +5,9 @@ This is K!
 Here is a list of my weekend projects:
 - VisionPro App: [SuperPowerX](https://apps.apple.com/cn/app/superpowerx/id6504263026)
 - iOS App: [LiveAvatar3D](https://apps.apple.com/cn/app/liveavatar3d/id1631677707)
-- Apple Podcast: [HiTech Everyday](https://itunes.apple.com/cn/podcast/每天懂点黑科技/id1445430696)
+- Apple Podcast:
+    - [HiTech Everyday](https://itunes.apple.com/cn/podcast/每天懂点黑科技/id1445430696)
+    - [Nerdcast Is All You Need](https://podcasts.apple.com/cn/podcast/nerdcast-is-all-you-need/id1769823067)
 - Ximalaya FM: [Introduction to Machine Learning](https://www.ximalaya.com/album/21244930)
 - OpenSea Collections: [Dancing Avatar 3D](https://opensea.io/SuperMirror/collected)
 - GPTs:
