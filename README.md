@@ -3,6 +3,7 @@
 This is K!
 
 Here is a list of my weekend projects:
+- Newsletter: [LLM Daily](https://buttondown.com/agent-k)
 - VisionPro App: [SuperPowerX](https://apps.apple.com/cn/app/superpowerx/id6504263026)
 - iOS App: [LiveAvatar3D](https://apps.apple.com/cn/app/liveavatar3d/id1631677707)
 - Web App: [VisionX](https://visionx.onenano.tech)
