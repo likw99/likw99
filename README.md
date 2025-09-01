@@ -4,6 +4,7 @@ This is K!
 
 Here is a list of my weekend projects:
 - ImageEditor with NanoBanana: [pixshop.art](https://pixshop.art)
+- MorningEspresso - investment signals: [espresso](https://espresso.fado.ai)
 - Newsletter: [LLM Daily](https://buttondown.com/agent-k)
 - VisionPro App: [SuperPowerX](https://apps.apple.com/cn/app/superpowerx/id6504263026)
 - iOS App: [LiveAvatar3D](https://apps.apple.com/cn/app/liveavatar3d/id1631677707)
