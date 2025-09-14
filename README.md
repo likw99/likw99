@@ -15,7 +15,7 @@ Here is a list of my weekend projects:
 - Spotify Podcast:
     - [Nerdcast Is All You Need](https://open.spotify.com/show/2hWHxAkseJVwbDFenVjFIl) (Same contents as Apple Podcast)
 - Ximalaya FM: [Introduction to Machine Learning](https://www.ximalaya.com/album/21244930)
-- OpenSea Collections: [Dancing Avatar 3D](https://opensea.io/SuperMirror/collected)
+- OpenSea Collections: [Dancing Avatar 3D](https://opensea.io/SuperMirror)
 - GPTs:
     - [GPTs Master](https://chatgpt.com/g/g-NIPV7ziKW-gpts-master)
     - [Algorithm Explorer](https://chatgpt.com/g/g-LuAkPlfef-algorithm-explorer)
