@@ -4,7 +4,7 @@ This is K!
 
 Here is a list of my weekend projects:
 - ImageEditor with NanoBanana: [pixshop.art](https://pixshop.art)
-- Espresso: capture potential alpha signals
+- Espresso: capturing potential alpha signals
     - Bond issuer monitor: [espresso](https://espresso.fado.ai)
     - Realworld news with digital avatar: [KoaiAlpha](https://www.youtube.com/@KoaiAlpha/shorts)
 - Newsletter: [LLM Daily](https://buttondown.com/agent-k)
