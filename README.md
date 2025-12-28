@@ -3,7 +3,7 @@
 This is K!
 
 Here is a list of my weekend projects:
-- Snapgame(coming soon): build mini-games. Share links. Laugh together. [snapgame.co](https://snapgame.co)
+- Snapgame(**coming soon**): Build mini-games. Share links. Laugh together. [snapgame.co](https://snapgame.co)
 - ImageEditor with NanoBanana: [pixshop.art](https://pixshop.art)
 - Espresso: capturing potential alpha signals
     - Bond issuer monitor: [espresso](https://espresso.fado.ai)
