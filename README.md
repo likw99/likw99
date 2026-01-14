@@ -3,8 +3,9 @@
 This is K!
 
 Here is a list of my weekend projects:
-- Snapgame(**coming soon**): Build mini-games. Share links. Laugh together. [snapgame.co](https://snapgame.co)
 - ImageEditor with NanoBanana: [pixshop.art](https://pixshop.art)
+- watchOS app: [Mana: Level Up Your Energy](https://apps.apple.com/app/mana-level-up-your-energy/id6757328774)
+- Snapgame(**coming soon**): Build mini-games. Share links. Laugh together. [snapgame.co](https://snapgame.co)
 - Espresso: capturing potential alpha signals
     - Bond issuer monitor: [espresso](https://espresso.fado.ai)
     - Realworld news with digital avatar: [KoaiAlpha](https://www.youtube.com/@KoaiAlpha/shorts)
