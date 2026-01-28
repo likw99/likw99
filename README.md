@@ -4,8 +4,13 @@ This is K!
 
 Here is a list of my weekend projects:
 - ImageEditor with NanoBanana: [pixshop.art](https://pixshop.art)
-- watchOS app: [Mana: Level Up Your Energy](https://apps.apple.com/app/mana-level-up-your-energy/id6757328774)
-- Snapgame(**coming soon**): Build mini-games. Share links. Laugh together. [snapgame.co](https://snapgame.co)
+- watchOS app:
+    - [Landing Page](https://mana.1nano.tech)
+    - [Mana: Level Up Your Energy](https://apps.apple.com/app/mana-level-up-your-energy/id6757328774)
+- Snapgame(**coming soon**):
+    - Build mini-games. Share links. Laugh together. [snapgame.co](https://snapgame.co)
+- HiPtah(**coming soon**): Inspired by Ptah, the Egyptian god who created through thought and speech.
+    - Create your imaginary 3D world. [hiptah.com](https://hiptah.com)
 - Espresso: capturing potential alpha signals
     - Bond issuer monitor: [espresso](https://espresso.fado.ai)
     - Realworld news with digital avatar: [KoaiAlpha](https://www.youtube.com/@KoaiAlpha/shorts)
