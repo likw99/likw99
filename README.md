@@ -7,6 +7,10 @@ Here is a list of my weekend projects:
 - watchOS app:
     - [Landing Page](https://mana.1nano.tech)
     - [Mana: Level Up Your Energy](https://apps.apple.com/app/mana-level-up-your-energy/id6757328774)
+- Agent Skills: [agent-skills](https://github.com/likw99/agent-skills)
+  ```bash
+  npx skills add likw99/agent-skills
+  ```
 - Snapgame(**coming soon**):
     - Build mini-games. Share links. Laugh together. [snapgame.co](https://snapgame.co)
 - HiPtah(**coming soon**): Inspired by Ptah, the Egyptian god who created through thought and speech.
