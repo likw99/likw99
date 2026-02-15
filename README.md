@@ -4,22 +4,17 @@ This is K!
 
 Here is a list of my weekend projects:
 - ImageEditor with NanoBanana: [pixshop.art](https://pixshop.art)
-- watchOS app:
-    - [Landing Page](https://mana.1nano.tech)
-    - [Mana: Level Up Your Energy](https://apps.apple.com/app/mana-level-up-your-energy/id6757328774)
-- Agent Skills: [agent-skills](https://github.com/likw99/agent-skills)
-  ```bash
-  npx skills add likw99/agent-skills
-  ```
-- Snapgame(**coming soon**):
-    - Build mini-games. Share links. Laugh together. [snapgame.co](https://snapgame.co)
-- HiPtah(**coming soon**): Inspired by Ptah, the Egyptian god who created through thought and speech.
-    - Create your imaginary 3D world. [hiptah.com](https://hiptah.com)
+- One-click OpenClaw Deployment: [ezclaw.cloud](https://www.ezclaw.cloud)
+- Snapgame(**coming soon**): [snapgame.co](https://snapgame.co)
+- HiPtah(**coming soon**): [hiptah.com](https://hiptah.com) 
+    - Inspired by Ptah, the Egyptian god who created through thought and speech.
+    - Create your imaginary 3D world.
 - Espresso: capturing potential alpha signals
     - Bond issuer monitor: [espresso](https://espresso.fado.ai)
     - Realworld news with digital avatar: [KoaiAlpha](https://www.youtube.com/@KoaiAlpha/shorts)
 - Newsletter: [LLM Daily](https://buttondown.com/agent-k)
 - VisionPro App: [SuperPowerX](https://apps.apple.com/cn/app/superpowerx/id6504263026)
+- watchOS app: [Mana: Level Up Your Energy](https://apps.apple.com/app/mana-level-up-your-energy/id6757328774)
 - iOS App: [LiveAvatar3D](https://apps.apple.com/cn/app/liveavatar3d/id1631677707)
 - Web App: [VisionX](https://visionx.onenano.tech)
 - Apple Podcast:
@@ -34,7 +29,10 @@ Here is a list of my weekend projects:
     - [Algorithm Explorer](https://chatgpt.com/g/g-LuAkPlfef-algorithm-explorer)
     - [Slides Copilot](https://chatgpt.com/g/g-pbZKhfonw-slides-copilot)
     - ......
-
+- Agent Skills: [agent-skills](https://github.com/likw99/agent-skills)
+  ```bash
+  npx skills add likw99/agent-skills
+  ```
 <!--
 **likw99/likw99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
