@@ -5,6 +5,7 @@ This is K!
 Here is a list of my weekend projects:
 - ImageEditor with NanoBanana: [pixshop.art](https://pixshop.art)
 - One-click OpenClaw Deployment: [ezclaw.cloud](https://www.ezclaw.cloud)
+- clawmate(**coming soon**): [clawmate.me](https://www.clawmate.me)
 - Snapgame(**coming soon**): [snapgame.co](https://snapgame.co)
 - HiPtah(**coming soon**): [hiptah.com](https://hiptah.com) 
     - Inspired by Ptah, the Egyptian god who created through thought and speech.
