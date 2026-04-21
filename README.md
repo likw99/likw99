@@ -5,6 +5,7 @@ This is K!
 Here is a list of my weekend projects:
 - ImageEditor with NanoBanana: [pixshop.art](https://pixshop.art)
 - One-click OpenClaw Deployment: [ezclaw.cloud](https://www.ezclaw.cloud)
+- VibeSing(**coming soon**): [vibesing.me](https://www.vibesing.me)
 - ClawMate(**coming soon**): [clawmate.me](https://www.clawmate.me)
 - Snapgame(**coming soon**): [snapgame.co](https://snapgame.co)
 - HiPtah(**coming soon**): [hiptah.com](https://hiptah.com) 
