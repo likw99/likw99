@@ -36,6 +36,8 @@ Here is a list of my weekend projects:
   ```bash
   npx skills add likw99/agent-skills
   ```
+- Agent Plugins: [agent-plugins](https://github.com/likw99/agent-plugins)
+
 <!--
 **likw99/likw99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
