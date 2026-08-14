@@ -3,10 +3,10 @@
 This is K!
 
 Here is a list of my weekend projects:
-- ImageEditor with NanoBanana: [pixshop.art](https://pixshop.art)
-- One-click OpenClaw Deployment: [ezclaw.cloud](https://www.ezclaw.cloud)
-- TrustSkills: [trustskills.app](https://www.trustskills.app)
-- VibeSing(**coming soon**): [vibesing.me](https://www.vibesing.me)
+- :rocket: ImageEditor with NanoBanana: [www.pixshop.art](https://www.pixshop.art)
+- :rocket: One-click OpenClaw Deployment: [www.ezclaw.cloud](https://www.ezclaw.cloud)
+- :rocket: Trusted Agent Skills: [www.trustskills.app](https://www.trustskills.app)
+- :rocket: What if I can VibeSing: [www.vibesing.me](https://www.vibesing.me)
 - ClawMate(**coming soon**): [clawmate.me](https://www.clawmate.me)
 - Snapgame(**coming soon**): [snapgame.co](https://snapgame.co)
 - HiPtah(**coming soon**): [hiptah.com](https://hiptah.com) 
