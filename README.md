@@ -7,8 +7,8 @@ Here is a list of my weekend projects:
 - :rocket: One-click OpenClaw Deployment: [www.ezclaw.cloud](https://www.ezclaw.cloud)
 - :rocket: Trusted Agent Skills: [www.trustskills.app](https://www.trustskills.app)
 - :rocket: What if I can VibeSing: [www.vibesing.me](https://www.vibesing.me)
+- :rocket: Remix the classic games, then brag you score: [www.retrobrag.com](https://www.retrobrag.com)
 - ClawMate(**coming soon**): [clawmate.me](https://www.clawmate.me)
-- Snapgame(**coming soon**): [snapgame.co](https://snapgame.co)
 - HiPtah(**coming soon**): [hiptah.com](https://hiptah.com) 
     - Inspired by Ptah, the Egyptian god who created through thought and speech.
     - Create your imaginary 3D world.
